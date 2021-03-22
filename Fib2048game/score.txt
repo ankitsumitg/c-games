@@ -1,0 +1,4 @@
+Ankit score is : 34
+Durga Prasad score is : 21
+Akshay score is : 34
+Anil score is : 144
